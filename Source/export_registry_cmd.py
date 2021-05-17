@@ -1,6 +1,6 @@
 import subprocess
 
-# subprocess.Popen('C:\\Windows\\System32\\cmd.exe cd C:\\Users\\Iron')
+# subprocess.Popen('C:\\Windows\\System32\\cmd.exe cd C:\\Users\\%USERNAME%')
 
 # # subprocess.Popen('C:\\Windows\\regedit.exe')
 
